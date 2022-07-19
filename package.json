@@ -1,0 +1,12 @@
+{
+  "name": "lint-config-for-web-development-within-vscode",
+  "version": "1.0.0",
+  "description": "Lint and Fix config for web development within vscode",
+  "main": "",
+  "scripts": {},
+  "author": "denisefaccin",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}
